@@ -1,3 +1,5 @@
+# deprecated - use https://github.com/Legilibre/legixplore
+
 # legi-api
 
 API http pour interroger les textes issus de la base LEGI.
